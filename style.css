@@ -114,13 +114,10 @@ nav h3 {
     border-bottom: 1px solid #0000003c;
     padding-bottom: 2.5vw;
 }
-#left img{
-    /* height: 480px;
-    mix-blend-mode: multiply;
-    transform: translate(-230px,40px); */
-    height: 530px;
-    mix-blend-mode: multiply;
-    transform: translate(290px,100px);
+#left img {
+    width: 350px !important; /* Adjust this number to make it smaller or larger */
+    height: auto !important;
+    object-fit: contain;
 }
 #left h3 {
     width: 25vw;
