@@ -118,7 +118,7 @@ nav h3 {
     width: 350px !important; 
     height: auto !important;
     object-fit: contain;
-    margin-left: 100px !important; /* This pushes the image to the right */
+    margin-left: 200px !important; /* This pushes the image to the right */
     position: relative;
     z-index: 2;
 }
